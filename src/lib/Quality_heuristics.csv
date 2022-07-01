@@ -1,0 +1,59 @@
+﻿id,parentId,parent_name,heuristic,description
+1,0,,Compatibility,"The suitability of its use in different environments like different devices, operating Systems and browsers."
+2,0,,Maintainability,"The ease with which it can be modified (adding features, enhancing features, fixing bugs, etc.), includes lines of code."
+3,0,,Performance,The speed at which it performs under a particular load.
+4,0,,Portability,The ability for it to be transferred easily from one location to another.
+5,0,,Reliability,The ability for it to perform a required function under stated conditions for the stated period of time without any errors.
+6,0,,Security,"The extent of protection against unauthorized access, invasion of privacy, theft, loss of data, etc."
+7,0,,Suitability,The ability it can carry out the functions as specified or desired.
+8,0,,Usability,The degree of its ease of use.
+9,4,Portability,Adaptability,The degree to which it can be adapted for different specified environments without applying actions or means other than those provided for the purpose considered. 
+10,4,Portability,Installability,The ability it can be installed and uninstalled in a specified environment.
+11,4,Portability,Modularity,The degree to which the system is composed of discrete components such that a change to one component has minimal impact on others.
+12,4,Portability,Replaceability,The degree to which it can be used in place of another specified solution for the same purpose in the same environment.
+13,4,Portability,Transferability,The ease with which a system or component can be transferred from one environment to another.
+14,2,Maintainability,Analyzability,"The degree to which it can be diagnosed for deficiencies or causes of failures, or for the parts to be identified and modified."
+15,2,Maintainability,Changeability,Effort required to modify during maintenance phase.
+16,2,Maintainability,Configurability,The ability to be customized or extended.
+17,2,Maintainability,Flexibility,The effort needed to improve an operational program.
+18,2,Maintainability,Verbosity,"The amount of supportable and testable knowledge necessary to achieve tasks, such as lines of code in software."
+19,2,Maintainability,Modifiable Stability,The degree to which it can avoid unexpected effects from modification.
+20,2,Maintainability,Modularity,The degree to which a system is composed of discrete components such that a change to one component has minimal impact on others.
+21,2,Maintainability,Reusability,"The degree to which an asset can be used in more than one system, or in compositionally building other assets."
+22,2,Maintainability,Scalability,The measure of the ability to increase or decrease performance in response to changes in demands.
+23,2,Maintainability,Supportability,"The ability to extend the program, adaptability and serviceability. The ease with which it can be installed and problems can be localized. "
+24,2,Maintainability,Testability,"The ease in which requirements, functions, and success metrics can be validated."
+25,5,Reliability,Acceptance,"The way it is received in the user community, as it is indicative of its ability to grow and become a prominent."
+26,5,Reliability,Accuracy/Versatility,The degree in which it provides the right or specified results with the needed degree of precision.
+27,5,Reliability,Availability,The degree to which it is operational and available in a timely manner when required.
+28,5,Reliability,Fault Tolerance,The degree to which it can maintain a specified level of performance in cases of faults or of infringement of its interface.
+29,5,Reliability,Maturity,"Degree to which a system, product or component meets needs for reliability under normal operation."
+30,5,Reliability,Recoverability,The degree to which it can re-establish a specified level of performance and recover in the case of a failure.
+31,5,Reliability,Robustness,The degree to which it continues to function properly under abnormal conditions or circumstances.
+32,5,Reliability,Stability,The ability of it to remain stable under varying stresses or over time.
+33,6,Security,Accountability,The degree to which the actions of an entity can be traced uniquely to the entity.
+34,6,Security,Authenticity,The degree to which the identity of a subject or resource can be proved to be the one claimed.
+35,6,Security,Confidentiality,"The degree to which it provides protection from unauthorized disclosure of information, whether accidental or deliberate."
+36,6,Security,Integrity,The degree to which the accuracy and completeness of assets are safeguarded.
+37,6,Security,Non-repudiation,"The degree to which events can be proven to have taken place, so that the events or actions cannot be falsified or repudiated later."
+38,3,Performance,Capacity,Degree to which the maximum limits meet requirements.
+39,3,Performance,Concurrency,The ability it can service multiple requests to the same resources at the same time.
+40,3,Performance,Efficiency,"The ability of it to perform well or achieve a result without wasted energy, resources, effort, time or money."
+41,3,Performance,Resource Utilization,"Degree to which the amounts and types of resources used, when performing its functions, sustainably meet requirements."
+42,3,Performance,Responsiveness,The ability for it to respond quickly or complete assigned tasks within a reasonable timeframe.
+43,3,Performance,Time Behavior,"Degree to which the response, processing, and throughput rates of a system meet requirements."
+44,1,Compatibility,Co-existence,"Degree to which it can perform required functions efficiently while sharing common environments and resources with other products, without detrimental impacts."
+45,1,Compatibility,Compliance,"The degree to which it adheres to standards, conventions, guides or regulations relating to it."
+46,1,Compatibility,Interoperability,The suitability of its use in different environments.
+47,7,Suitability,Affordability,The degree in which costs align with budget goals.
+48,7,Suitability,Appropriateness,Degree to which the functions facilitate the accomplishment of specified tasks and objectives.
+49,7,Suitability,Completeness,Degree to which the set of functions covers all the specified tasks and user objectives.
+50,7,Suitability,Correctness,Degree to which it provides the correct results with the needed degree of precision.
+51,8,Usability,Accessibility,"The degree to which it can be used comfortably by a wide audience, including those who require assistive technologies."
+52,8,Usability,Aesthetics,The degree to which it is attractive and engaging to the user.
+53,8,Usability,Helpfulness,The degree to which it provides actionable help when users need assistance.
+54,8,Usability,Learnability,The speed in which it enables users to recognize and understand functionality.
+55,8,Usability,Localizability,"The ability it can be used in different languages, locales, and time zones."
+56,8,Usability,Operability,Degree to which it has attributes that make it easy to operate and control.
+57,8,Usability,Recognizability,Degree to which users can recognize whether it is appropriate for their specific needs.
+59,8,Usability,User error protection,Degree to which a system protects users against making errors.
